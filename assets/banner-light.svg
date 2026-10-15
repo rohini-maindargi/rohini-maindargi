@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#eef0ff"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#4f46e5" stroke-opacity="0.06"/></pattern>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0L10 5L0 10z" fill="#4f46e5"/></marker>
+  <clipPath id="r"><rect width="1280" height="320" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+  <rect width="1280" height="320" rx="20" fill="url(#bg)"/>
+  <rect width="1280" height="320" rx="20" fill="url(#grid)"/>
+  <rect x="0" y="0" width="8" height="320" fill="#4f46e5"/>
+  <rect x="64" y="64" width="306" height="34" rx="17" fill="#ecfdf5" stroke="#a7f3d0"/>
+  <circle cx="86" cy="81" r="6" fill="#047857"/>
+  <text x="102" y="86.5" font-size="15" font-weight="600" fill="#047857">Open to Cloud, DevOps &amp; SRE roles</text>
+  <text x="62" y="170" font-size="60" font-weight="800" letter-spacing="-1.5" fill="#0f1729">Rohini Maindargi</text>
+  <text x="64" y="214" font-size="28" font-weight="700" fill="#4f46e5">Cloud &amp; DevOps Engineer</text>
+  <text x="64" y="256" font-size="17" fill="#5a6478">AWS Certified  ·  Terraform  ·  Kubernetes  ·  CI/CD  ·  Bangalore, India</text>
+  <rect x="676" y="110" width="542" height="136" rx="18" fill="none" stroke="#d3d8e0" stroke-dasharray="5 6"/><text x="696" y="134" font-size="12" font-weight="600" letter-spacing="1.2" fill="#5a6478">AWS · GITOPS PIPELINE</text><rect x="700" y="150" width="104" height="56" rx="12" fill="#ffffff" stroke="#d3d8e0" stroke-width="1.5"/><text x="752" y="175" text-anchor="middle" font-size="15" font-weight="600" fill="#0f1729">GitHub</text><text x="752" y="193" text-anchor="middle" font-size="12" fill="#5a6478">commit</text><path d="M807 178 H825" stroke="#4f46e5" stroke-width="2" marker-end="url(#a)"/><rect x="830" y="150" width="104" height="56" rx="12" fill="#ffffff" stroke="#d3d8e0" stroke-width="1.5"/><text x="882" y="175" text-anchor="middle" font-size="15" font-weight="600" fill="#0f1729">Jenkins</text><text x="882" y="193" text-anchor="middle" font-size="12" fill="#5a6478">build</text><path d="M937 178 H955" stroke="#4f46e5" stroke-width="2" marker-end="url(#a)"/><rect x="960" y="150" width="104" height="56" rx="12" fill="#ffffff" stroke="#d3d8e0" stroke-width="1.5"/><text x="1012" y="175" text-anchor="middle" font-size="15" font-weight="600" fill="#0f1729">ArgoCD</text><text x="1012" y="193" text-anchor="middle" font-size="12" fill="#5a6478">sync</text><path d="M1067 178 H1085" stroke="#4f46e5" stroke-width="2" marker-end="url(#a)"/><rect x="1090" y="150" width="104" height="56" rx="12" fill="#eef0ff" stroke="#4f46e5" stroke-width="1.5"/><text x="1142" y="175" text-anchor="middle" font-size="15" font-weight="600" fill="#0f1729">Kubernetes</text><text x="1142" y="193" text-anchor="middle" font-size="12" fill="#5a6478">deploy</text>
+</g>
+</svg>
